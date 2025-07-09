@@ -1,0 +1,3 @@
+[console_scripts]
+fyersh=fyers_api_helper.cli:main
+
